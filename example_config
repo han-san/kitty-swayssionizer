@@ -1,0 +1,10 @@
+# Change the directories to your own projects or whatever, you do you. Make
+# sure you use absolute paths.
+
+# The different search paths are colon (:) separated.
+KITTY_SWAYSSIONIZER_SEARCH_DIRS="/home/you/projects:/home/you/work"
+
+KITTY_SWAYSSIONIZER_0_DIR="/home/you/projects/fizzbuzz"
+KITTY_SWAYSSIONIZER_1_DIR="/home/you/projects/sieve_of_eratosthenes"
+KITTY_SWAYSSIONIZER_2_DIR="/home/you/projects/a_star"
+KITTY_SWAYSSIONIZER_3_DIR="/home/you/projects/my_website"
